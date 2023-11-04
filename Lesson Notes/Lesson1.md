@@ -7,8 +7,8 @@ Get the repository from Github:
 Get local changes to Github:
 1. Stage your changes (locally): `git stage .`
 2. Commit your changes (locally): `git commit`
-2.1 Write a commit message: What are the changes about?
-3. Push changes to Github: `git push`
+3. Write a commit message: What are the changes about?
+4. Push changes to Github: `git push`
 
 # Note on command line
 CLI (command line interface)
