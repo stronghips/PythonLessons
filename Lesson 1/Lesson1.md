@@ -12,6 +12,7 @@ Get local changes to Github:
 
 # Note on command line
 CLI (command line interface)
+A command line is also called a terminal (e.g. in VS Code).
 
 # Note on file systems, directories, paths
 (Windows)
