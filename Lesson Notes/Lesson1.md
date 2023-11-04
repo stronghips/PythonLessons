@@ -12,3 +12,11 @@ Get local changes to Github:
 
 # Note on command line
 CLI (command line interface)
+
+# Note on file systems, directories, paths
+(Windows)
+This `C:\Users\user\test` is called a path, more exactly a directory path.
+
+Important commands for handling files and directories:
+`dir`  - show all files & directories in the current directory.
+
