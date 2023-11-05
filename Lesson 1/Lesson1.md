@@ -7,8 +7,9 @@
 Get the repository from Github: `git clone https://github.com/stronghips/test.git`
 
 Get remote changes from Github:
-- `git fetch` - Synchronize local repo information with github.
+Open a terminal (in VS Code) or a command line and enter:
 - `git pull` - Pull latest changes from github to local repo.
+- `git fetch` - Synchronize local repo information with github.
 
 Get local changes to Github:
 1. Stage your changes (locally): `git stage .`
