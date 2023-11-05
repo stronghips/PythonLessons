@@ -9,6 +9,8 @@ for steps in range(1, 101):
         forward(steps)
         right(30)
 
+input("press enter to exit")
+
 # analyze the iterations
 
 # 1. iteration of the outer loop
