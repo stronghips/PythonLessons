@@ -4,6 +4,9 @@
 Get the repository from Github:
 `git clone https://github.com/stronghips/test.git`
 
+Get remote changes from Github:
+- `git pull`
+
 Get local changes to Github:
 1. Stage your changes (locally): `git stage .`
 2. Commit your changes (locally): `git commit`
