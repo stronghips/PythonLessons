@@ -5,7 +5,8 @@ Get the repository from Github:
 `git clone https://github.com/stronghips/test.git`
 
 Get remote changes from Github:
-- `git pull`
+- `git fetch` - Synchronize local repo information with github.
+- `git pull` - Pull latest changes from github to local repo.
 
 Get local changes to Github:
 1. Stage your changes (locally): `git stage .`
@@ -22,5 +23,5 @@ A command line is also called a terminal (e.g. in VS Code).
 This `C:\Users\user\test` is called a path, more exactly a directory path.
 
 Important commands for handling files and directories:
-`dir`  - show all files & directories in the current directory.
+`dir`  - Show all files & directories in the current directory.
 
