@@ -6,8 +6,8 @@ for steps in range(1, 101):
     # a nested loop: 3 iterations
     for c in ('blue', 'red', 'green'):
         color(c)
-        forward(steps)
-        right(30)
+        forward(steps) # length of the line: 1, 2, 3, ..., 100
+        right(30) # change the direction by 30 degrees
 
 input("press enter to exit")
 
