@@ -2,9 +2,9 @@
 2023-11-11
 
 ## Libraries
-A library is basically code, better something like a program. It's not really,
-you cannot execute it like program. But you can use the code, that means you
-can use functions and data that the library provides.
+A library is code that you can use in your program without having to write it
+yourself. You cannot execute it like program. But you can use the functions
+that the library provides.
 
 In order to use a lib you need to install a package. A lib is usually
 put into a package.
