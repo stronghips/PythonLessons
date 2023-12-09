@@ -1,6 +1,14 @@
 # Getting Started
 2023-11-03
 
+## Install required software
+Download the latest versions of the following software and install them.
+Just keep everything default.
+
+- git: https://git-scm.com/download/win (64-bit Version)
+- VS Code: https://code.visualstudio.com/download
+- Python: https://www.python.org/downloads/
+
 ## Source Control
 ### git Repositories
 
