@@ -1,4 +1,4 @@
-# Python Introduction
+# Python Introduction 1
 2023-11-05
 
 ## Packages
@@ -6,7 +6,7 @@ Packages contain functions and other things that we can use in our
 program. They have been written by someone and we can use the functionality
 of those packages.
 
-To use a package we have to install it using the package manager pip.
+To use a package we have to install it first using the package manager `pip`.
 - `pip install turtle`
 And then we have to import the functions that we need from the package in
 our program:
