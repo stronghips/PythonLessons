@@ -49,3 +49,4 @@ What kinds of parameters are there?
   - -1, 0, 1, 2, 3, ... (Integers)
   - 2.111, 0.5, 3.1413, 1343.5  , ... (Float, real numbers in math)
 
+There are many other data types, we will look at them later.
