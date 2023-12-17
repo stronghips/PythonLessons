@@ -31,13 +31,13 @@ simple function
 - To use a function, you must call it.
 
 ### Parameter passing
-- Giving a function some data, some information from outside the function.
+- We use parameters to give a function some data, some information   from outside the function.
 - Information goes into a function with `parameters`.
 - Information comes out of a function with `return values`.
-- When we call a function with a parameter, we give it an actual parameter.
+- When we call a function with a parameter value, we give it an actual parameter (formal vs. actual parameter).
 
 Example:
-- `def my_function_with_params(name)` - Definition: (formal) parameter name
+- `def my_function_with_params(name)` - Definition: The formal parameter is: name
 - `my_function_with_params("Emil")` - Call: actual parameter: "Emil"
 
 ## Data Types
