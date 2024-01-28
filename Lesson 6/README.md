@@ -24,4 +24,6 @@ one class into a file.
 ## How to put your code into multiple files?
 
 
-https://teclado.com/30-days-of-python/
+## Links
+- https://teclado.com/30-days-of-python/
+- https://docs.python.org/3/library/tkinter.html
