@@ -22,6 +22,7 @@ is typically responsible for one thing, you shouldn't put more than
 one class into a file.
 
 ## How to put your code into multiple files?
+We can include other source code files like packages.
 
 
 ## Links
