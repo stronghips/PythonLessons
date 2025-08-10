@@ -11,6 +11,7 @@ Just keep everything default.
 
 ## Source Control
 ### git Repositories
+Topic: Version, Source Control, keep track of source code changes.
 
 Get the repository from Github: `git clone https://github.com/stronghips/test.git`
 
