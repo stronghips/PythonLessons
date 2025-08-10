@@ -26,6 +26,7 @@ Get local changes to Github:
 4. Push changes to Github: `git push`
 
 ## Note on the command line
+different names:  console, command line, terminal, shell, command prompt, CLI
 CLI (command line interface)
 A command line is also called a terminal (e.g. in VS Code).
 
