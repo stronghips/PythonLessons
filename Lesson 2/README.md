@@ -1,6 +1,11 @@
 # Python Introduction 1
 2023-11-05
 
+## Python
+Python is an interpreted programming language, i.e. it is executed line by line
+by the Python interpreter. Languages like C or C++ are compiled languages, i.e. the
+source code is compiled into machine code before it is executed (usually much faster).
+
 ## Packages
 Packages contain functions and other things that we can use in our
 program. They have been written by someone and we can use the functionality
@@ -15,7 +20,8 @@ our program:
 ## Control structures
 ## Conditional statements: if, else, elif
 
-A condition is true or false.
+A condition is true or false. Branching allows us to execute different code paths based on conditions.
+The program can have many execution paths
 
 ## Loops
 
@@ -37,7 +43,9 @@ It doesn't have a boolean condition, but it usually has a loop
 counter or a loop variable.
 
 ## Operators
-### Boolean Operators not, ==, !=, &&, ||
+### Boolean Operators not, ==, !=, and, or
+A && B, A and B are both true.
+
 They evaluate to true or false.
 
 ### Comparison Operators <, >, >=
