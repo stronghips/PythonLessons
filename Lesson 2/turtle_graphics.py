@@ -1,5 +1,5 @@
 # turtle is a package
-from turtle import *
+from turtle import color, forward, right
 
 # outer loop: 100 iterations
 for steps in range(1, 101):
