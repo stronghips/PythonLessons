@@ -39,5 +39,7 @@ def StartGame():
     computer_choice = GetComputerChoice()
     CalculateWinner(user_choice, computer_choice)
 
-while True:
-    StartGame()
+# main entry point of the program
+if __name__ == "__main__":
+    while True:
+        StartGame()

@@ -2,7 +2,7 @@ import random
 
 def rock_paper_scissors():
     # Define the options
-    options = ['rock', 'paper', 'scissors']
+    options = ['rock', 'paper', 'scissors']     # tuple
 
     # Computer makes a choice
     computer_choice = random.choice(options)
