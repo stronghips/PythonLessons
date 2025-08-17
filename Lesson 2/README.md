@@ -57,3 +57,13 @@ The evaluate to a number.
 ## Note:
 - A boolean condition is a condition like `2 == 3`, and it evaluates to true or false.
 - `.md` files contain markdown language.
+
+
+## Debugger
+A debugger is a tool that helps us find and fix errors in our code. It allows us to:
+- Set breakpoints: Pause the execution of the program at a specific line.
+- Step through the code: Execute the code line by line to see how it behaves.
+- Inspect variables: Check the values of variables at different points in the program.
+- Modify variables: Change the values of variables while debugging.
+
+Using a debugger can make it much easier to understand what is happening in our code and to identify the root cause of issues.
